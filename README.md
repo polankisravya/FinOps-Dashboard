@@ -41,7 +41,8 @@ To simulate and visualize daily cloud cost data for multiple services using loca
 
 ## 📸 Sample Output
 
-> Insert a screenshot of your Grafana dashboard here (optional)
+> ![Screenshot 2025-04-25 120341](https://github.com/user-attachments/assets/adf5a25a-4416-4bd2-9605-fe7d7f325512)
+
 
 ## ✅ Deliverables
 
