@@ -59,5 +59,5 @@ To simulate and visualize daily cloud cost data for multiple services using loca
 
 ---
 
-**Project by:** *[Your Name]*  
+**Project by:** *[P.sravya]*  
 **Date:** *April 2025*
